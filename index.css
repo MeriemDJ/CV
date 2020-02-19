@@ -1,0 +1,29 @@
+
+.Titre {
+margin-left:30%;
+
+}
+	
+.photo{
+	float: right;
+	width :400px;
+	margin : -30px;
+	font-size : 30px;
+}
+
+.Exp{
+	text-align : justify;
+
+}
+
+.formations{
+	text-align : justify;
+}
+
+body{ 
+background: #CCCCFF; 
+color: black; 
+margin-left:20%; 
+margin-right: 5%;
+font-family: Tahoma, Optima,  Arial, sans-serif;
+}
